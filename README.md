@@ -1,4 +1,4 @@
-# D3 JS and React
+# D3 JS with React/Redux
 
 React Redux Setup for displaying a line chart using D3
 
