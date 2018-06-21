@@ -1,0 +1,28 @@
+.home-page {
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  section {
+    margin: 3em auto;
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    &.centered {
+      text-align: center;
+    }
+  }
+}
+
+.line {
+  fill: none;
+  stroke: #428bca;
+  stroke-width: 1.5px;
+}
+
+.baseline {
+  stroke-dasharray: 4, 4;
+}
